@@ -7,11 +7,20 @@
 
 This is an old project of mine that I worked on during the 2024 semester break. Here, I use Matplotlib in Python to graph these electron density plots and NumPy with Sympy to do the necessary algebraic calculations.  
 
-Density Plot for n=2, l=1, m=0 
-[Plot of 2,1,0](Images/n2_l1_m0.png)
+<br/>
 
-Density Plot for n=3, l=2, m=1 
-[Plot of 3,2,1](Images/n3_l2_m1.png)
+<!-- Tabularising the Plots-->
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Density Plot for n=2, l=1, m=0 </b></td>
+    <td><b style="font-size:30px">Density Plot for n=3, l=2, m=1  2</b></td>
+ </tr>
+ <tr>
+    <td><img src="Images/n2_l1_m0.png" width="400"/></td>
+    <td><img src="Images/n3_l2_m1.png" width="400"/></td>
+ </tr>
+</table>
+<!--------------------------->
 
 ### Built With
 *  [Matplotlib](https://matplotlib.org/)
