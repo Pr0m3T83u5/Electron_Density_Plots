@@ -5,7 +5,7 @@
 <!-- Heading -->
 # 📝 Atomic Orbital Probability Density Plots
 
-This is an old project of mine that I worked on during the 2024 semester break. Here, I use Matplotlib in Python to graph these electron density plots and NumPy with Sympy to do the necessary algebraic calculations.  
+This is an old project of mine that I worked on during the 2023 semester break. Here, I use Matplotlib in Python to graph these electron density plots and NumPy with Sympy to do the necessary algebraic calculations.  
 
 <br/>
 
